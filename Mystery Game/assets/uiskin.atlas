@@ -1,0 +1,7 @@
+uiskin.png
+size:32,16
+repeat:none
+Button_up
+bounds:1,1,14,14
+button_down
+bounds:17,2,14,13

@@ -1,0 +1,45 @@
+BUTTON_E.png
+BUTTON_SOUND.mp3
+Brown.png
+CLOCK.png
+CORRECT_SOUND.mp3
+CUPBOARD.png
+CUPBOARD_CLOSE.mp3
+CUPBOARD_OPEN.mp3
+DOORS_WINDOWS.png
+DOOR_CLOSE.mp3
+DOOR_OPEN.mp3
+Frog - Idle.png
+Frog - Run.png
+Frog.png
+INTRO_SOUND.mp3
+LAMP.png
+MAT.png
+Masked Guy - Idle.png
+Masked Guy - Run.png
+Masked Guy.png
+MyFont.ttf
+PAPERTEX.png
+PAPER_RUSTLE.mp3
+PAUSE_BUTTON.png
+PICTURE.png
+PLANT2.png
+PLANTS.png
+Pink Guy - Idle.png
+Pink Guy - Run.png
+Pink Guy.png
+ROOM.png
+RUNNING.mp3
+SIDECUPBOARDS.png
+SOFA.png
+Virtual Guy - Idle.png
+Virtual Guy - Run.png
+Virtual Guy.png
+WRITING_SOUND.mp3
+WRONG_SOUND.mp3
+default.fnt
+default.png
+libgdx.png
+uiskin.atlas
+uiskin.json
+uiskin.png
